@@ -1,4 +1,4 @@
-Agenda Telefônica desenvolvida em React.js
+Agenda Telefônica desenvolvida em React.js e Bootstrap
 
 Link para apresentação no Figma: https://www.figma.com/file/8A6SSPgUJe8deU8fxm0rBS/Untitled?node-id=0%3A1&t=fSqs7KVZiUlkObxN-1
 
